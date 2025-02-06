@@ -1,6 +1,6 @@
 Made by: @Amaya
 Repository link: https://github.com/TheRealMopcornPuncher/VoltCore
-Total hours so far: 2
+Total hours so far: 3 hrs 25 mns
 - [x] I have a 3d printer or will be getting one before March 21st
 ---
 < Briefing >
@@ -13,7 +13,7 @@ Pitch: An extra portable and partially remote solution to printing without an ac
 # Day 0 - Preparations and planning
 ### Feb 4, 2025
 
-I began by generating a timeline for me to operate within, as to avoid procrastinating and not finishing the project at all.
+I began by generating a timeline for me to operate within, as to avoid me procrastinating and not finishing the project at all.
 
 **Deadline: Feb 11**
 
@@ -26,7 +26,7 @@ I began by generating a timeline for me to operate within, as to avoid procrasti
 
 - Design a CoreXY frame in CAD, ensuring it satisfies a small size profile (X and Y dimensions are 6-7 inches).
 - Simulate motion system (belt routing, pulley positioning, etc.).
-- Plan the mounting locations for electronics and batteries.
+- Plan the mounting locations for electronics and battery.
 - **Finalize the design and order all necessary parts.**
 
 **Deadline: April 14** _(All Parts Arrived & Assembly Begins)_
@@ -48,7 +48,7 @@ I began by generating a timeline for me to operate within, as to avoid procrasti
 
 - Complete final tuning and ensure prints are high quality.
 - Verify folding mechanism and portability.
-- Confirm battery efficiency for the intended use.
+- Confirm battery efficiency
 - **Must have a successful Benchy print by this date!**
 
 **Deadline: May 6** _(Ship Everything or Carry it with You)_
@@ -58,9 +58,18 @@ I began by generating a timeline for me to operate within, as to avoid procrasti
 - Consider taking it as a carry-on for guaranteed arrival.
 
 Besides this, I've also done some research on suitable parts. Mostly minimal.
+Total time elapsed: 2 hours
 
-Total time elapsed: 2 hrs
 # Day 1
 ### Feb 5, 2025
 
-I felt pretty energized with the project today so I decided to start working on pushing my project into the tank with the others. (Started writing and journaling today, the previous entry was made up for yesterday.) I intend to jot some stuff down into the BOM and continue fleshing out my solution for power. Mostly stuff from my first deadline/checkpoint.
+I felt pretty energized with the project today so I decided to start working on pushing my project into the tank with the others. (Started writing and journaling today, previous entry was made up for yesterday.) I intend to jot some stuff down into the BOM and continue fleshing out my solution for power. Mostly stuff from my first deadline/checkpoint.
+
+I started my BOM by snatching and customizing a template for it off the web in google sheets. After creating the BOM, I started looking for the components I'd need to assemble the frame, and I got a recommendation for some of the nicest prices and highest class extrusions I could find from a company called 80/20 LLC.
+
+After getting the link to the extrusion, I was going to start modeling it in fusion 360, when I proceeded to fall down a rabbit hole of logo design. In the end, I installed Inkscape and began learning how to craft a nice looking logo to slap over the rest of this project.
+
+Total time elapsed: 1 hr 25 mins
+
+---
+
