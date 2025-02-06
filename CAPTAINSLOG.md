@@ -26,7 +26,7 @@ I began by generating a timeline for me to operate within, as to avoid procrasti
 
 - Design a CoreXY frame in CAD, ensuring it satisfies a small size profile (X and Y dimensions are 6-7 inches).
 - Simulate motion system (belt routing, pulley positioning, etc.).
-- Plan the mounting locations for electronics and battery.
+- Plan the mounting locations for electronics and batteries.
 - **Finalize the design and order all necessary parts.**
 
 **Deadline: April 14** _(All Parts Arrived & Assembly Begins)_
@@ -59,6 +59,7 @@ I began by generating a timeline for me to operate within, as to avoid procrasti
 
 Besides this, I've also done some research on suitable parts. Mostly minimal.
 
+Total time elapsed: 2 hrs
 # Day 1
 ### Feb 5, 2025
 
