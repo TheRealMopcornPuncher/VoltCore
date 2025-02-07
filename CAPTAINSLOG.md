@@ -1,10 +1,10 @@
 Made by: @Amaya
 Repository link: https://github.com/TheRealMopcornPuncher/VoltCore
-Total hours so far: 3 hrs 25 mns
+Total hours so far: 3 hrs 40 mns
 - [x] I have a 3d printer or will be getting one before March 21st
 ---
 < Briefing >
-A silly concept accidentally turned into reality
+A silly concept accidentally turned reality
 Pitch: An extra portable and partially remote solution to printing without an active power source
 
 ---
@@ -31,10 +31,10 @@ I began by generating a timeline for me to operate within, as to avoid me procra
 
 **Deadline: April 14** _(All Parts Arrived & Assembly Begins)_
 
-- Assemble the frame and install motors, belts, and pulleys.
-- Wire up the control board and power system.
+- Assemble frame and install motors, belts, and pulleys.
+- Wire up control board and power system.
 - Perform first motion tests (homing, jogging, etc.).
-- Mount and test the extruder and hot end (ensure >220°C capability).
+- Mount and test the extruder and hotend (ensure >220°C capability).
 - **All parts should be in by this date to stay on track.**
 
 **Deadline: April 28**
@@ -48,7 +48,7 @@ I began by generating a timeline for me to operate within, as to avoid me procra
 
 - Complete final tuning and ensure prints are high quality.
 - Verify folding mechanism and portability.
-- Confirm battery efficiency
+- Confirm battery efficiency for intended use.
 - **Must have a successful Benchy print by this date!**
 
 **Deadline: May 6** _(Ship Everything or Carry it with You)_
@@ -69,7 +69,9 @@ I started my BOM by snatching and customizing a template for it off the web in g
 
 After getting the link to the extrusion, I was going to start modeling it in fusion 360, when I proceeded to fall down a rabbit hole of logo design. In the end, I installed Inkscape and began learning how to craft a nice looking logo to slap over the rest of this project.
 
-Total time elapsed: 1 hr 25 mins
+I decided to take a break from learning how to use Inkscape. After hopping into a call with my brother and ranting about the project, he suggested I use a single motor for the Z-axis linked via a belt to support all sides of the bed (Maybe via linear rods/rails?)
+
+Total time elapsed: 1 hr 40 mins
 
 ---
 
