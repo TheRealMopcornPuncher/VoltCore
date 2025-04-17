@@ -2,6 +2,8 @@ Made by: @Amaya
 Repository link: https://github.com/TheRealMopcornPuncher/VoltCore
 BOM: https://docs.google.com/spreadsheets/d/1q4xtd6th8_cM6Qn8iwp2R4_8qS0gYeFDji75B9E_PQI/edit?usp=sharing
 Images: https://docs.google.com/document/d/1O2JPVw-2Jhm0MzPRCLd0zcRRRKDtKQYV07AwvWWCOpY/edit?usp=sharing
+
+Fusion 360 CAD Sharing Link of final assembly: https://a360.co/3RkSeRq
 Total hours so far: 82 hrs 5 mins
 - [x] I have a 3d printer or will be getting one before March 21st
 ---
