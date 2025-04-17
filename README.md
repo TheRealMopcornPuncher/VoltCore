@@ -1,11 +1,11 @@
 # VoltCore
 
-A battery-powered variation of a core-xy 3d printer. Design specifications subject to change.
+A battery-powered variation of the common Cartesian 3d printer. Design specifications are subject to change.
 
-Build volume: 125mm^3
+Build volume: 100x100x65mm
 Profile: Small
-Battery: 24v 10ah lithium battery - Output :29.4V 2A (Brand is Wroyeti)
+Battery: 24v 7ah lifepo4 (
 
-VoltCore is a portable solution to printing that allows an operator 1~ hour of 3d printing without a constant power source. The problem this design attempts to solve is environments where power cannot be provided for a printing setup otherwise.
+VoltCore is a portable solution for 3D printing that allows an operator to print for one hour on a battery. This design attempts to solve the problem of environments devoid of immediate power via outlets or chargers connected to infrastructure.
 
 - Amaya Allison
