@@ -34,8 +34,6 @@ ModF_ZAxis_Thrust_Bearing_Housing.stl x 1
 
 /gantry
 ---
-ModG_Hotend_Clamp_A.stl x 1
-ModG_Hotend_Clamp_B.stl x 1
 ModG_Left_Bracket_Stepper_Spacer.stl x 1
 ModG_Right_Belt_Tensioning_Block_A.stl x 1
 ModG_Right_Belt_Tensioning_Block_B.stl x 1
@@ -46,6 +44,10 @@ ModG_Z_Bracket_Left_B.stl x 1
 
 /printhead
 ---
+ModP_Hotend_Clamp_A.stl x 1
+ModP_Hotend_Clamp_B_With_Logo.stl x 1 (Alternative available)
+or
+ModP_Hotend_Clamp_B.stl x 1
 ModP_CR_Touch_Mount.stl x 1
 ModP_Print_Cooling_Fan_Mount.stl x 1
 ModP_Printhead_Mounting_Plate_A.stl x 1
