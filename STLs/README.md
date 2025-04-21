@@ -16,7 +16,9 @@ ModE_Extruder_Mounting_Bracket.stl x 1
 
 /frame
 ---
-ModF_Angle_Bracket.stl x 10
+ModF_Angle_Bracket.stl x 10 (Alternative available)
+or
+ModF_Angle_Bracket_5.2mm x 10 
 ModF_Left_Rod_Tensioner_A.stl x 1
 ModF_Left_Rod_Tensioner_B.stl x 1
 ModF_Mainboard_Mounting_Bracket.stl x 1
