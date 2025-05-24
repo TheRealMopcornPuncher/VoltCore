@@ -10,4 +10,4 @@ VoltCore is a portable solution for 3D printing that allows an operator to print
 
 - Amaya Allison & Jonathan Gallo
 
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/ddf94bcb580aa6795d702a5a3efe5105cf4569e1_screenshot_2025-04-16_232518.png
+![Image of printer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ddf94bcb580aa6795d702a5a3efe5105cf4569e1_screenshot_2025-04-16_232518.png)
